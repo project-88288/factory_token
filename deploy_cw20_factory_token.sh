@@ -1,0 +1,1 @@
+terrain deploy cw20_factory_token --signer test --config-path ./config.terrain_cw20.json

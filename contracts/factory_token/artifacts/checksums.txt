@@ -1,0 +1,1 @@
+0ed09ce57518e431e5abf6bd715cc6e84c0bb6325c06c16098ac801cf399b118  factory_token.wasm

@@ -1,0 +1,1 @@
+terrain deploy factory_token --signer test --config-path ./config.terrain.json
