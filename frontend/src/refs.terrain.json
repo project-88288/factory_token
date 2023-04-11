@@ -7,9 +7,9 @@
       }
     },
     "cw20_factory_token": {
-      "codeId": "20",
+      "codeId": "11",
       "contractAddresses": {
-        "default": "terra14qzan3htphfmuvzugck5n8wguxtdp0z204pldwyv6rv4mnec087q9qp37v"
+        "default": "terra14khjxsvmklm8kg97vhrn5wc2tz3w57na5seeke3qnwashe4pxd3qmljkek"
       }
     }
   }
