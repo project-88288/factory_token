@@ -1,1 +1,1 @@
-43f5685b71c69eba80003b358dd9c1d143f8ba43c3e374d8ecad3b551a7d8735  cw20_factory_token.wasm
+8a4968119c7aead25f8af9108f34a93dbf8ebfde2cc482e06b4644ba2f6f45d2  cw20_factory_token.wasm

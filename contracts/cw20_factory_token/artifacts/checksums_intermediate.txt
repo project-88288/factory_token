@@ -1,1 +1,1 @@
-0882242b31cc8483d1b7c7246eb37f5e92e828ab240de3355a9514b0f84c4afa  ./target/wasm32-unknown-unknown/release/cw20_factory_token.wasm
+c84791509a0c8c2d3f269edbf6ea302bf261a26022a2cddcba65bba59dfe0734  ./target/wasm32-unknown-unknown/release/cw20_factory_token.wasm
