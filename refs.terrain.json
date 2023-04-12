@@ -1,9 +1,9 @@
 {
   "localterra": {
     "factory_token": {
-      "codeId": "21",
+      "codeId": "47",
       "contractAddresses": {
-        "default": "terra1800drchmd7pq8l3jdc0hpr8ngk8d9vpqqay9r07ms5kjyx34838s7uyt7h"
+        "default": "terra14sck2448rerusmznu4ehpmk2k2qk0knfgcfytlmxvhr0r2jzn27qgctnm9"
       }
     },
     "cw20_factory_token": {
